@@ -7,8 +7,7 @@ import org.antlr.v4.runtime.tree.ParseTree;
 import java.io.IOException;
 import java.io.InputStream;
 
-public class Compiler
-{
+public class Compiler{
     public static void main(String[] args) throws IOException
     {
         InputStream input_stream = System.in;
